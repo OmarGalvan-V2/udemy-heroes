@@ -3,3 +3,4 @@
 Lucifer
 Joker
 Flash-Reverso
+Browser
