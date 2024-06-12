@@ -5,3 +5,6 @@ de la justicia.
 
 ## Notas
 Pueden hacer cualquier texto...
+
+## Github
+Cambios realizados en github.
