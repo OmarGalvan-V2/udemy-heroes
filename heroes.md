@@ -3,3 +3,5 @@
 Mario
 Luigi
 Kirby
+Zelda
+Kamado
